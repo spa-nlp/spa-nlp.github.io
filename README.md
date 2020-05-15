@@ -1,1 +1,3 @@
-Machine Reading for Question Answering (MRQA) Workshop Website
+The official website for the Workshop on Unstructured and Structured KBs @ AKBC 2020
+
+
