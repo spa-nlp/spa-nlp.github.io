@@ -38,13 +38,13 @@ Due to concerns about COVID-19, Workshop on Unstructured and Structured KBs will
 
 USKB workshop will be held virtually on June 25th from 8:30AM - 12PM in Pacific Time (UTC-7).
 
-8:30-9 - Invited talk 1 (25 min + 5 min Q&A)
-9-9:30 - Invited talk 2 (25 min + 5 min Q&A)
-9:30-10 - Invited talk 3 (25 min + 5 min Q&A)
-10-10:30 - Invited talk 4 (25 min + 5 min Q&A)
-10:30-11 - Invited talk 5 (25 min + 5 min Q&A)
-11-11:30 - Invited talk 6 (25 min + 5 min Q&A)
-11:30-12 - Panel discussion (30 min)
+- 8:30-9 - Invited talk 1 (25 min + 5 min Q&A)
+- 9-9:30 - Invited talk 2 (25 min + 5 min Q&A)
+- 9:30-10 - Invited talk 3 (25 min + 5 min Q&A)
+- 10-10:30 - Invited talk 4 (25 min + 5 min Q&A)
+- 10:30-11 - Invited talk 5 (25 min + 5 min Q&A)
+- 11-11:30 - Invited talk 6 (25 min + 5 min Q&A)
+- 11:30-12 - Panel discussion (30 min)
 
 
 ## Organizing Committee
