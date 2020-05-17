@@ -29,8 +29,10 @@ Due to concerns about COVID-19, Workshop on Unstructured and Structured KBs will
 
 - [Will Hamilton](https://williamleif.github.io/), McGill University/Mila
 - [Yunyao Li](https://researcher.watson.ibm.com/researcher/view.php?person=us-yunyaoli), IBM Research
+- [Fabio Petroni](https://www.fabiopetroni.com/), Facebook AI Research
 - [Colin Raffel](https://craffel.github.io/), University of North Carolina
 - TBD/TBA
+
 
 ## Tentative Schedule
 
