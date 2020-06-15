@@ -9,7 +9,7 @@ collection: pages_2019
 
 There has been growing interest in extracting, representing, and applying knowledge. In NLP literatures, both structured (e.g. Freebase, Wikidata) and unstructured (plain text) text have been used as knowledge sources. Knowledge from such sources plays an important role in advancing the state-of-the-art in various downstream tasks, such as question answering, generation and fact verification.
 
-The objectives of this workshop is to bring together researchers interested in effectively extracting, representing, and applying knowledge in various different ways. We promote discussions in related topics including but not limited to:
+The objective of this workshop is to bring together researchers interested in effectively extracting, representing, and applying knowledge in various different ways. We promote discussions in related topics including but not limited to:
 
 - The role of explicit structure in representing knowledge in the future
 - Can language models be knowledge bases?
