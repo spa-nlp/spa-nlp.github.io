@@ -39,15 +39,19 @@ Workshop registration is included in [AKBC 2020 registration](https://akbc.ws/20
 
 ## Tentative Schedule
 
-USKB workshop will be held virtually on June 25th from 8:30AM - 12PM in Pacific Time (UTC-7).
+USKB workshop will be held virtually on June 25th from 8:30AM - 12:45PM in Pacific Time (UTC-7).
 
-- 8:30-9 - Invited talk 1 (25 min + 5 min Q&A)
-- 9-9:30 - Invited talk 2 (25 min + 5 min Q&A)
-- 9:30-10 - Invited talk 3 (25 min + 5 min Q&A)
-- 10-10:30 - Invited talk 4 (25 min + 5 min Q&A)
-- 10:30-11 - Invited talk 5 (25 min + 5 min Q&A)
-- 11-11:30 - Invited talk 6 (25 min + 5 min Q&A)
-- 11:30-12 - Panel discussion (30 min)
+- 8:30-9:00 - Invited talk: Kenneth Forbus
+- 9:00-9:30 - Invited talk: Philipp Cimiano
+- 9:30-10:00 - Invited talk: Will Hamilton
+- 10:00-10:15 - Break 1
+- 10:15-10:45 - Invited talk: Yunyao Li
+- 10:45-11:15 - Invited talk: Fabio Petroni
+- 11:15-11:45 - Invited talk: Colin Raffel
+- 11:45-12:00 - Break 2
+- 12:00-12:45 - Panel discussion (30 min)
+
+Each talk is 25 min + 5 min Q&A.
 
 
 ## Organizing Committee
