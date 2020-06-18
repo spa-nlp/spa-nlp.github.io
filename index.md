@@ -44,16 +44,16 @@ We will also have a panel discussion with speakers and
 
 USKB workshop will be held virtually on June 25th from 8:30AM - 12:45PM in Pacific Time (UTC-7).
 
-- 8:25-8:30 - Opening remarks
-- 8:30-9:00 - Invited talk: [Kenneth Forbus](https://users.cs.northwestern.edu/~forbus/)
-- 9:00-9:30 - Invited talk: [Philipp Cimiano](http://www.sc.cit-ec.uni-bielefeld.de/team/philipp-cimiano/)
-- 9:30-10:00 - Invited talk: [Will Hamilton](https://williamleif.github.io/)
+- 8:25-8:30 - **Opening remarks
+- 8:30-9:00 - **Invited talk**: [Kenneth Forbus](https://users.cs.northwestern.edu/~forbus/)
+- 9:00-9:30 - **Invited talk**: [Philipp Cimiano](http://www.sc.cit-ec.uni-bielefeld.de/team/philipp-cimiano/)
+- 9:30-10:00 - **Invited talk**: [Will Hamilton](https://williamleif.github.io/)
 - 10:00-10:15 - Break 1
-- 10:15-10:45 - Invited talk: [Yunyao Li](https://researcher.watson.ibm.com/researcher/view.php?person=us-yunyaoli)
-- 10:45-11:15 - Invited talk: [Fabio Petroni](https://www.fabiopetroni.com/)
-- 11:15-11:45 - Invited talk: [Colin Raffel](https://craffel.github.io/)
+- 10:15-10:45 - **Invited talk**: [Yunyao Li](https://researcher.watson.ibm.com/researcher/view.php?person=us-yunyaoli)
+- 10:45-11:15 - **Invited talk**: [Fabio Petroni](https://www.fabiopetroni.com/)
+- 11:15-11:45 - **Invited talk**: [Colin Raffel](https://craffel.github.io/)
 - 11:45-12:00 - Break 2
-- 12:00-12:45 - Panel discussion
+- 12:00-12:45 - **Panel discussion**
 
 Each talk is 25 min + 5 min Q&A.
 
