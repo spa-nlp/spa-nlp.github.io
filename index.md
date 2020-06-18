@@ -20,7 +20,7 @@ The objective of this workshop is to bring together researchers interested in ef
 - Transfer learning for diverse knowledge sources
 
 
-**Due to concerns about COVID-19, Workshop on Unstructured and Structured KBs will be fully virtual. More details on registration and time schedules will be announced soon!**
+**Due to concerns about COVID-19, Workshop on Unstructured and Structured KBs will be fully virtual.**
 
 ## Registration
 
