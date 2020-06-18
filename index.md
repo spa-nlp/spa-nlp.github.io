@@ -36,9 +36,11 @@ Workshop registration is included in [AKBC 2020 registration](https://akbc.ws/20
 - [Fabio Petroni](https://www.fabiopetroni.com/), Facebook AI Research
 - [Colin Raffel](https://craffel.github.io/), University of North Carolina
 
-We will also have a panel discussion with speakers and
+We will also have a panel discussion with [Eunsol Choi](https://www.cs.utexas.edu/~eunsol/), Philipp Cimiano, Kenneth Forbus, Will Hamilton, Yunyao Li, Fabio Petroni and Colin Raffel.
 
-- [Eunsol Choi](https://www.cs.utexas.edu/~eunsol/), Google AI / UT Austin
+! We will also have a panel discussion with speakers and
+
+! - [Eunsol Choi](https://www.cs.utexas.edu/~eunsol/), Google AI / UT Austin
 
 ## Tentative Schedule
 
