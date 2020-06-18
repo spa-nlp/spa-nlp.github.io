@@ -42,7 +42,7 @@ We will also have a panel discussion with [Eunsol Choi](https://www.cs.utexas.ed
 
 USKB workshop will be held virtually on June 25th from 8:30AM - 12:45PM in Pacific Time (UTC-7).
 
-- 8:25-8:30 - **Opening remarks
+- 8:25-8:30 - Opening remarks
 - 8:30-9:00 - **Invited talk**: [Kenneth Forbus](https://users.cs.northwestern.edu/~forbus/)
 - 9:00-9:30 - **Invited talk**: [Philipp Cimiano](http://www.sc.cit-ec.uni-bielefeld.de/team/philipp-cimiano/)
 - 9:30-10:00 - **Invited talk**: [Will Hamilton](https://williamleif.github.io/)
