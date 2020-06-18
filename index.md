@@ -38,10 +38,6 @@ Workshop registration is included in [AKBC 2020 registration](https://akbc.ws/20
 
 We will also have a panel discussion with [Eunsol Choi](https://www.cs.utexas.edu/~eunsol/), Philipp Cimiano, Kenneth Forbus, Will Hamilton, Yunyao Li, Fabio Petroni and Colin Raffel.
 
-! We will also have a panel discussion with speakers and
-
-! - [Eunsol Choi](https://www.cs.utexas.edu/~eunsol/), Google AI / UT Austin
-
 ## Tentative Schedule
 
 USKB workshop will be held virtually on June 25th from 8:30AM - 12:45PM in Pacific Time (UTC-7).
