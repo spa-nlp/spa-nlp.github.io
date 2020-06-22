@@ -51,7 +51,7 @@ td {
 
 .blog-masthead {
   margin-bottom: 3rem;
-  background-color: #0a3d84; 
+  background-color: #0a3d84;
   position: fixed;
   top: 0;
   width: 100%;
@@ -133,7 +133,10 @@ td {
  * Button for abstract and slides
  */
 .btn-xs {
-  padding: 3px 6px;
+  /*padding: 3px 6px;*/
+  padding: 0 6px;
+  height: 20px;
+  font-size: 9pt;
 }
 .card {
   margin-bottom: 20px;
