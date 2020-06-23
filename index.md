@@ -43,6 +43,7 @@ We will also have a panel discussion with [Eunsol Choi](https://www.cs.utexas.ed
 
 USKB workshop will be held virtually on June 25th from 8:30AM - 12:45PM in Pacific Time (UTC-7).
 
+<div id="schedule">
 - 8:25-8:30 - Opening remarks
 - 8:30-9:00 - Invited talk: [Kenneth Forbus](https://users.cs.northwestern.edu/~forbus/) -- <b>Analogy and the Construction of more Human-like Knowledge Bases</b> <button class="btn btn-outline-info btn-xs" type="button" data-toggle="collapse" data-target="#ken-card" aria-expanded="false" aria-controls="ken-card">Abstract</button>
 <div class="collapse" id="ken-card"><div class="card card-body">
@@ -66,6 +67,7 @@ It has recently been observed that language models trained on unlabeled, unstruc
 - 12:00-12:45 - **Panel discussion**
 
 Each talk is 25 min + 5 min Q&A.
+</div>
 
 
 ## Organizing Committee
