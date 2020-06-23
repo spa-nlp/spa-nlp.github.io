@@ -88,7 +88,6 @@ USKB workshop will be held virtually on June 25th from 8:30AM - 12:45PM in Pacif
         </li>
     </ul>
     <p>Each talk is 25 min + 5 min Q&A.</p>
-    <br />
 </div>
 
 
