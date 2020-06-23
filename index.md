@@ -5,6 +5,8 @@ order: 1
 collection: pages_2019
 ---
 
+<p style="font-size: 12pt"><em>If you have registered, please visit [this website](https://akbc.apps.allenai.org/workshop_uskb.html) and log in, in order to find a zoom link to the workshop.</em></p>
+
 ## Overview
 
 There has been growing interest in extracting, representing, and applying knowledge. In NLP literatures, both structured (e.g. Freebase, Wikidata) and unstructured (plain text) text have been used as knowledge sources. Knowledge from such sources plays an important role in advancing the state-of-the-art in various downstream tasks, such as question answering, generation and fact verification.
@@ -25,8 +27,6 @@ The objective of this workshop is to bring together researchers interested in ef
 ## Registration
 
 Workshop registration is included in [AKBC 2020 registration](https://akbc.ws/2020/registration/), along with access to the main conference (June 22-24).
-
-If you have registered, please visit [this website](https://akbc.apps.allenai.org/workshop_uskb.html) and log in, in order to find a zoom link to the workshop.
 
 ## Invited Speakers
 
@@ -72,8 +72,8 @@ USKB workshop will be held virtually on June 25th from 8:30AM - 12:45PM in Pacif
             We describe the development of human-in-the-loop tools to capture the implicit knowledge in the mind of human experts to build domain-specific knowledge bases as the foundation for many AI systems. The ability to build large-scale domain-specific knowledge bases that capture and extend the implicit knowledge of human experts is the foundation for many AI systems. We use an ontology-driven approach for the creation, representation and consumption of such domain-specific knowledge bases. This approach relies on several well-known building blocks: natural language processing, entity resolution, data transformation and fusion. We will present several human-in-the-loop work  that target domain experts (rather than programmers) to extract the domain knowledge from the human expert and map it into the "right" models or algorithms. We will also share successful use cases in several domains, including Compliance, Finance, and Healthcare: by using these tools we can match the level of accuracy achieved by manual effort, but at a significantly lower cost and much higher scale and automation. If time permits, we will demonstrate a knowledge base built for the Finance domain.</div></div>
         </li>
         <li>
-            10:45-11:15 - Invited talk: <a href="https://www.fabiopetroni.com/">Fabio Petroni</a> -- <b>Title TODO</b> <button class="btn btn-outline-info btn-xs" type="button" data-toggle="collapse" data-target="#fabio-card" aria-expanded="false" aria-controls="fabio-card">Abstract</button>
-            <div class="collapse" id="fabio-card"><div class="card card-body">Abstract TODO</div></div>
+            10:45-11:15 - Invited talk: <a href="https://www.fabiopetroni.com/">Fabio Petroni</a> -- <b>How can we compare unstructured, structured and self-structured knowledge representation?</b> <button class="btn btn-outline-info btn-xs" type="button" data-toggle="collapse" data-target="#fabio-card" aria-expanded="false" aria-controls="fabio-card">Abstract</button>
+            <div class="collapse" id="fabio-card"><div class="card card-body">Several approaches have been proposed to represent world knowledge. It can be unstructured in text corpora, organised in structured collections (e.g, KBs, key-value memories), or self-structured in the parameters of a neural model. However, it is still unclear how to compare these different solutions. Most of the existing NLP benchmarks focus on tasks that humans can solve by just examining local information. In this talk I will review some knowledge-intensive tasks, that require to seek knowledge in a large body of documents even for humans in order to be solved. I will present some of the latest models proposed to solve those and which representation they use for knowledge. Moreover, I will present some ideas to investigate models' explainability in this setting.</div></div>
         </li>
         <li>
             11:15-11:45 - Invited talk: <a href="https://craffel.github.io/">Colin Raffel</a> -- <b>Answering Questions by Querying the Implicit Knowledge Base Inside T5</b> <button class="btn btn-outline-info btn-xs" type="button" data-toggle="collapse" data-target="#colin-card" aria-expanded="false" aria-controls="colin-card">Abstract</button>
