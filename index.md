@@ -5,7 +5,7 @@ order: 1
 collection: pages_2019
 ---
 
-<p style="font-size: 12pt"><em>If you have registered, please visit [this website](https://akbc.apps.allenai.org/workshop_uskb.html) and log in, in order to find a zoom link to the workshop.</em></p>
+<p style="font-size: 12pt; color: #B22222"><em>If you have registered, please visit <a href="https://akbc.apps.allenai.org/workshop_uskb.html">this website</a> and log in, in order to find a zoom link to the workshop.</em></p>
 
 ## Overview
 
