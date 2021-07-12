@@ -6,8 +6,8 @@ lsi: false
 markdown: kramdown
 
 ### content configuration ###
-title:       "Unstructured and Structured KBs @ AKBC 2020"
+title:       "Unstructured and Structured KBs @ AKBC 2021"
 keywords:    "workshop, knowledge"
-description: "The official website for the Workshop on Unstructured and Structured KBs @ AKBC 2020"
+description: "The official website for the Workshop on Unstructured and Structured KBs @ AKBC 2021"
 favicon:     #put a path like: "img/favicon.ico"
 touch_icon:  #put a path like: "img/apple-touch-icon.png"
