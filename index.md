@@ -47,6 +47,7 @@ We welcome submissions of extended abstracts (1 page max) related to the above r
 - [Luna Dong](https://lunadong.com/), Amazon
 - [Kelvin Guu](https://www.kelvinguu.com/), Google AI
 - [Collin Raffel](https://colinraffel.com/), University of North Carolina, Chapel Hill & Hugging Face
+- [Ivan Titov](http://ivan-titov.org/), University of Edinburgh
 
 We will also have a panel discussion with speakers.
 
