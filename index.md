@@ -7,13 +7,11 @@ collection: pages_2021
 
 ## Overview
 
-**We have released our [Call for Papers](cfp)!**
+**We have released our [Call for Abstracts](cfp)!**
 
 There is growing interest in extracting, representing, and applying knowledge in NLP tasks. Diverse knowledge sources have been explored in the literature, from structured (e.g. Freebase, Wikidata) to unstructured (plain text), and more recently pretrained neural models (e.g. language models). Knowledge from such sources plays an important role in advancing the state-of-the-art in various downstream tasks, such as question answering, text generation and fact verification.
 
-
 The objective of this workshop is to bring together researchers interested in effectively extracting, representing, and applying knowledge in different ways. We promote discussion in related topics including but not limited to:
-
 
 - The role of explicit structure in representing knowledge in the future.
 - Can language models be knowledge bases?
@@ -26,12 +24,15 @@ The objective of this workshop is to bring together researchers interested in ef
 - Extracting and evaluating knowledge stored in language models.
 - Multilingual knowledge sources.
 
-
 **Due to concerns about COVID-19, Workshop on Unstructured and Structured KBs will be fully virtual.**
 
 
-## Important Dates
+## Call for Abstracts
 
+We welcome submissions of extended abstracts (1 page max) related to the above research areas. Please check out [Call for Abstracts](cfp)!
+
+
+## Important Dates
 
 - Tuesday, August 31th:       Deadline for submission of extended abstracts
 - Wednesday, September 15th:  Notification of acceptance
@@ -47,7 +48,6 @@ The objective of this workshop is to bring together researchers interested in ef
 - [Kelvin Guu](https://www.kelvinguu.com/), Google AI
 - [Collin Raffel](https://colinraffel.com/), University of North Carolina, Chapel Hill & Hugging Face
 
-
 We will also have a panel discussion with speakers.
 
 
@@ -59,8 +59,4 @@ We will also have a panel discussion with speakers.
 - [Aleksandra Piktus](https://uk.linkedin.com/in/piktus), Facebook AI
 - [Siamak Shakeri](https://www.linkedin.com/in/siamak-shakeri-b0827316), Google AI
 - [Pat Verga](https://people.cs.umass.edu/~pat/), Google AI
-
-
-
-
 

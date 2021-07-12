@@ -1,6 +1,6 @@
 ---
 layout: main-2021
-title: Home
+title: Call for Abstracts
 order: 2
 collection: pages_2021
 ---
@@ -8,7 +8,7 @@ collection: pages_2021
 ## Call for Abstracts
 
 
-We welcome submissions of extended abstracts (1 page max) related to the above research areas. Submissions may include previously published results, late-breaking results, and work in progress. Accepted submissions will be featured on the workshop website with a video presentation and announced during the workshop program. The workshop is non-archival, so participants are free to submit their work for publication elsewhere.
+We welcome submissions of extended abstracts (1 page max) related to the relevant research areas. Submissions may include previously published results, late-breaking results, and work in progress. Accepted submissions will be featured on the workshop website with a video presentation and announced during the workshop program. The workshop is non-archival, so participants are free to submit their work for publication elsewhere.
 
 
 To submit an abstract, please send an email to [uskb-workshop@googlegroups.com](mailto:uskb-workshop@googlegroups.com) with the subject line "USKB submission: [TITLE]". Please include:
