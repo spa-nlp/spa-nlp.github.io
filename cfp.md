@@ -22,7 +22,7 @@ We require each accepted work to provide a recorded video presentation up to 12 
 ## Important Dates
 
 
-- Tuesday, August 31th:       Deadline for submission of extended abstracts
+- ~~Tuesday, August 31th~~ Friday, September 10th:	Deadline for submission of extended abstracts
 - Wednesday, September 15th:  Notification of acceptance
 - Friday, October 1st:        Deadline for recorded videos
 - Thursday, October 7th:  Workshop date

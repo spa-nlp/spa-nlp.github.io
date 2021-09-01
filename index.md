@@ -7,7 +7,7 @@ collection: pages_2021
 
 ## Overview
 
-**We have released our [Call for Abstracts](cfp)!**
+**We have extended the submission deadline to September 10th (See [Call for Abstracts](cfp))!**
 
 There is growing interest in extracting, representing, and applying knowledge in NLP tasks. Diverse knowledge sources have been explored in the literature, from structured (e.g. Freebase, Wikidata) to unstructured (plain text), and more recently pretrained neural models (e.g. language models). Knowledge from such sources plays an important role in advancing the state-of-the-art in various downstream tasks, such as question answering, text generation and fact verification.
 
@@ -34,7 +34,7 @@ We welcome submissions of extended abstracts (1 page max) related to the above r
 
 ## Important Dates
 
-- Tuesday, August 31th:       Deadline for submission of extended abstracts
+- ~~Tuesday, August 31th~~ Friday, September 10th:       Deadline for submission of extended abstracts
 - Wednesday, September 15th:  Notification of acceptance
 - Friday, October 1st:        Deadline for recorded videos
 - Thursday, October 7th:  Workshop date
