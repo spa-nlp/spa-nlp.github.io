@@ -42,7 +42,7 @@ Workshop registration is included in [AKBC 2021 registration](https://na.eventsc
 - [William Cohen](https://wwcohen.github.io/), Google AI
 - [Luna Dong](https://lunadong.com/), Facebook
 - [Kelvin Guu](https://www.kelvinguu.com/), Google AI
-- [Collin Raffel](https://colinraffel.com/), University of North Carolina, Chapel Hill & Hugging Face
+- [Colin Raffel](https://colinraffel.com/), University of North Carolina, Chapel Hill & Hugging Face
 - [Ivan Titov](http://ivan-titov.org/), University of Edinburgh
 
 We will also have a panel discussion with speakers.
@@ -57,7 +57,7 @@ USKB workshop will be held virtually on October 7th from 8:25AM - 1PM in Pacific
 * 09:30-10:00	- Invited talk: William Cohen
 * 10:00-10:30	- Break + featuring accepted abstracts
 * 10:30-11:00	- Invited talk: Eunsol Choi
-* 11:00-11:30	- Invited talk: Collin Raffel
+* 11:00-11:30	- Invited talk: Colin Raffel
 * 11:30-12:00	- Invited talk: Ivan Titov
 * 12:00-12:15	- Break
 * 12:15-13:00	- Panel discussion
