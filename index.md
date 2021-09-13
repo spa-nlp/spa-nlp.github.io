@@ -7,6 +7,8 @@ collection: pages_2021
 
 ## Overview
 
+**We have released the workshop schedule!**
+
 There is growing interest in extracting, representing, and applying knowledge in NLP tasks. Diverse knowledge sources have been explored in the literature, from structured (e.g. Freebase, Wikidata) to unstructured (plain text), and more recently pretrained neural models (e.g. language models). Knowledge from such sources plays an important role in advancing the state-of-the-art in various downstream tasks, such as question answering, text generation and fact verification.
 
 The objective of this workshop is to bring together researchers interested in effectively extracting, representing, and applying knowledge in different ways. We promote discussion in related topics including but not limited to:
