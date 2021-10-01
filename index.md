@@ -57,10 +57,10 @@ USKB workshop will be held virtually on October 7th from 8:25AM - 1PM in Pacific
             08:25-08:30 - Opening remarks
         </li>
         <li>
-        	08:30-09:00	- Invited talk: <a href="https://www.kelvinguu.com/" target="_blank">Kelvin Guu</a> -- <b>TBA</b>
+        	08:30-09:00	- Invited talk: <a href="https://www.kelvinguu.com/" target="_blank">Kelvin Guu</a> -- <b>Can language models be knowledge bases? If not, why? If so, how?</b>
         	<button class="btn btn-outline-info btn-xs" type="button" data-toggle="collapse" data-target="#kelvin-card" aria-expanded="false" aria-controls="kelvin-card">Abstract</button>
         	<!--<a href="https://www.youtube.com/watch?v=V4nbWiPdnTE" class="btn btn-outline-info btn-xs">Video</a>-->
-            <div class="collapse" id="kelvin-card"><div class="card card-body">TBA</div></div>
+            <div class="collapse" id="kelvin-card"><div class="card card-body">Language models (LMs) encounter large amounts of world knowledge during training, and recent work has shown how to recover some of this knowledge through various forms of LM prompting / fine-tuning / probing. But how far are we from implementing the full capabilities and fidelity of a knowledge base? What challenges can be solved by simply scaling up to more parameters, and what challenges will require novel research orthogonal to model size? In this talk, I'll start by assessing the frontier of what LMs can and cannot do today. I'll then discuss a set of key challenges that (probably) won't be overcome by model scaling alone, and recent work to address them. For example: how do we obtain provenance for a model's assertions? And how can we update a model to account for new information or new context?</div></div>
         </li>
         <li>
 			09:00-09:30	- Invited talk: <a href="https://lunadong.com/" target="_blank">Luna Dong</a> -- <b>Zero to One Billion: The Path to a Rich Product Knowledge Graph</b>
