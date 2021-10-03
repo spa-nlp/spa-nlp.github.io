@@ -18,7 +18,7 @@ We are excited to announce four selected abstracts to be featured at the 2nd USK
 		<strong>Affiliation</strong>: PwC<br />
 	</div>
 	<div class="col">
-		<iframe src="https://www.youtube.com/embed/iua_L8t_7Y4"></iframe>
+		<iframe allow="fullscreen;" src="https://www.youtube.com/embed/iua_L8t_7Y4"></iframe>
 	</div>
 </div>
 
@@ -31,7 +31,7 @@ We are excited to announce four selected abstracts to be featured at the 2nd USK
 		<strong>Affiliation</strong>: School of Artificial Intelligence, Jilin University & School of Information and Library Science, The University of North Carolina at Chapel Hill<br />
 	</div>
 	<div class="col">
-		<iframe src="https://www.youtube.com/embed/TODO"></iframe>
+		<iframe allow="fullscreen;" src="https://www.youtube.com/embed/TODO"></iframe>
 	</div>
 </div>
 
@@ -44,7 +44,7 @@ We are excited to announce four selected abstracts to be featured at the 2nd USK
 		<strong>Affiliation</strong>: Hasso-Plattner-Institut, University of Potsdam, Germany, Technische Universit ̈at Braunschweig, Germany & Bosch Center for Artificial Intelligence, Renningen, Germany<br />
 	</div>
 	<div class="col">
-		<iframe src="https://www.youtube.com/embed/WQX3R7r1mzE"></iframe>
+		<iframe allow="fullscreen;" src="https://www.youtube.com/embed/WQX3R7r1mzE"></iframe>
 	</div>
 </div>
 
@@ -57,9 +57,9 @@ We are excited to announce four selected abstracts to be featured at the 2nd USK
 		<strong>Affiliation</strong>: Center for Law and Economics, ETH Zurich<br />
 	</div>
 	<div class="col">
-		<iframe src="https://www.youtube.com/embed/TODO"></iframe>
+		<iframe allow="fullscreen;" src="https://www.youtube.com/embed/TODO"></iframe>
 	</div>
 </div>
 
 
-
+<br />
