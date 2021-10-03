@@ -7,6 +7,8 @@ collection: pages_2021
 
 ## Overview
 
+**Update: We are excited to announce [four selected abstracts](https://uskb-workshop.github.io/abstracts.html) to be featured at the 2nd USKB Workshop.**
+
 **Update: We have released [the workshop schedule](https://uskb-workshop.github.io/#schedule)!**
 
 There is growing interest in extracting, representing, and applying knowledge in NLP tasks. Diverse knowledge sources have been explored in the literature, from structured (e.g. Freebase, Wikidata) to unstructured (plain text), and more recently pretrained neural models (e.g. language models). Knowledge from such sources plays an important role in advancing the state-of-the-art in various downstream tasks, such as question answering, text generation and fact verification.
