@@ -31,7 +31,7 @@ We are excited to announce four selected abstracts to be featured at the 2nd USK
 		<strong>Affiliation</strong>: School of Artificial Intelligence, Jilin University & School of Information and Library Science, The University of North Carolina at Chapel Hill<br />
 	</div>
 	<div class="col">
-		<iframe allow="fullscreen;" width="480px" height="280px" src="https://www.youtube.com/embed/TODO"></iframe>
+		<iframe allow="fullscreen;" width="480px" height="280px" src="https://www.youtube.com/embed/ls7DCJejAU4"></iframe>
 	</div>
 </div>
 
