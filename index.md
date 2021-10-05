@@ -73,7 +73,7 @@ USKB workshop will be held virtually on October 7th from 8:25AM - 1PM in Pacific
 			This talk takes my past experiences for collecting product knowledge as an example to describe the journey to build a rich knowledge graph. We describe how we nail down the most important first step for delivering the data business: training high-precision models that generate accurate data. We then describe how we scale up the models with learning from limited labels, and how we increase the yields with multi-modal models and web extraction. We share the many learnings and lessons in building this product graph and applying it to support customer-facing applications.</div></div>
 		</li>
 		<li>
-			09:30-10:00	- Invited talk: <a href="https://wwcohen.github.io/" target="_blank">William Cohen</a> -- <b>TBA</b>
+			09:30-10:00	- Invited talk: <a href="https://wwcohen.github.io/" target="_blank">William Cohen</a> -- <b>Answering Questions using Neural Knowledge Representations</b>
         	<button class="btn btn-outline-info btn-xs" type="button" data-toggle="collapse" data-target="#william-card" aria-expanded="false" aria-controls="william-card">Abstract</button>
         	<!--<a href="https://www.youtube.com/watch?v=V4nbWiPdnTE" class="btn btn-outline-info btn-xs">Video</a>-->
             <div class="collapse" id="william-card"><div class="card card-body">TBA</div></div>
