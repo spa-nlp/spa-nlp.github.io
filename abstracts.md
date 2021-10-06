@@ -42,6 +42,7 @@ We are excited to announce four selected abstracts to be featured at the 2nd USK
 		<strong>Title</strong>: Knowledge Graph Representation with Embeddings<br />
 		<strong>Authors</strong>: Nitisha Jain, Jan-Christoph Kalo, Wolf-Tilo Balke, Ralf Krestel, Trung-Kien Tran, Mohamed H. Gad-Elrab, Daria Stepanova<br />
 		<strong>Affiliation</strong>: Hasso-Plattner-Institut, University of Potsdam, Germany, Technische Universit ̈at Braunschweig, Germany & Bosch Center for Artificial Intelligence, Renningen, Germany<br />
+		<strong>Contact</strong>: Nitisha Jain [<a href="mailto:nitisha.jain@hpi.de">email</a>] [<a href="https://hpi.de/naumann/people/nitisha-jain.html">website</a>]
 	</div>
 	<div class="col">
 		<iframe allow="fullscreen;" width="480px" height="280px" src="https://www.youtube.com/embed/WQX3R7r1mzE"></iframe>
@@ -55,9 +56,10 @@ We are excited to announce four selected abstracts to be featured at the 2nd USK
 		<strong>Title</strong>: The Choice of Knowledge Base in Automated Claim Checking<br />
 		<strong>Authors</strong>: Dominik Stammbach, Boya Zhang, Elliott Ash<br />
 		<strong>Affiliation</strong>: Center for Law and Economics, ETH Zurich<br />
+		<strong>Contact</strong>: Dominik Stammbach [<a href="mailto:dominik.stammbach@gess.ethz.ch">email</a>]
 	</div>
 	<div class="col">
-		<iframe allow="fullscreen;" width="480px" height="280px" src="https://www.youtube.com/embed/TODO"></iframe>
+		<iframe allow="fullscreen;" width="480px" height="280px" src="https://www.youtube.com/embed/SStOqXNmC7U"></iframe>
 	</div>
 </div>
 
