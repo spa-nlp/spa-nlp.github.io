@@ -1,7 +1,7 @@
 ---
 layout: main-2021
 title: Featured Abstracts
-order: 3
+order: 2
 collection: pages_2021
 ---
 
