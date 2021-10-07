@@ -29,6 +29,7 @@ We are excited to announce four selected abstracts to be featured at the 2nd USK
 		<strong>Title</strong>: CogKG: Unifying Symbolic and Continuous Knowledge Representations for Machine Reasoning<br />
 		<strong>Authors</strong>: Zhepei Wei, Yue Wang, Jinnan Li, Yingqi Guo, Zhining Liu, Erxin Yu, Yi Chang<br />
 		<strong>Affiliation</strong>: School of Artificial Intelligence, Jilin University & School of Information and Library Science, The University of North Carolina at Chapel Hill<br />
+		<strong>Contact</strong>: Zhepei Wei [<a href="mailto:weizp19@mails.jlu.edu.cn">email</a>] [<a href="weizhepei.com">website</a>]
 	</div>
 	<div class="col">
 		<iframe allow="fullscreen;" width="480px" height="280px" src="https://www.youtube.com/embed/ls7DCJejAU4"></iframe>
