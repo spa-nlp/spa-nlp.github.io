@@ -7,6 +7,8 @@ collection: pages_2021
 
 ## Overview
 
+**Update: Thank you everyone for attending the workshop! The talks were recorded and will be released by AKBC. We will update the website once they are available.**
+
 **Update: We are excited to announce [four selected abstracts](https://uskb-workshop.github.io/abstracts.html) to be featured at the 2nd USKB Workshop.**
 
 **Update: We have released [the workshop schedule](https://uskb-workshop.github.io/#schedule)!**
