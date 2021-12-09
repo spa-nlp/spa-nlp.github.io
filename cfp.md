@@ -1,8 +1,8 @@
 ---
-layout: main-2021
+layout: main-2022
 title: Call for Papers
 order: 3
-collection: pages_2021
+collection: pages_2022
 ---
 
 ## Call for Papers
