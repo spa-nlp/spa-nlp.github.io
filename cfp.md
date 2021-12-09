@@ -1,39 +1,62 @@
 ---
 layout: main-2021
-title: Call for Abstracts
+title: Call for Papers
 order: 3
 collection: pages_2021
 ---
 
-## Call for Abstracts
+## Call for Papers
 
 
-We welcome submissions of extended abstracts (1 page max) related to the relevant research areas. Submissions may include previously published results, late-breaking results, and work in progress. Accepted submissions will be featured on the workshop website with a video presentation and announced during the workshop program. The workshop is non-archival, so participants are free to submit their work for publication elsewhere.
+This workshop aims to invite researchers to share their latest work in designing and understanding semiparametric models. We will welcome papers / work-in-progress on several topics (but not limited to):
 
+1. Understanding properties and capabilities
 
-To submit an abstract, please send an email to [uskb-workshop@googlegroups.com](mailto:uskb-workshop@googlegroups.com) with the subject line "USKB submission: [TITLE]". Please include:
+	* Expressivity of semiparametric models
+	* Generalization in low resource settings
+	* Quick adaptation to newly emerging phenomena/temporally aware
+	* Right to be forgotten/ GDPR /Privacy
+	* Interpretability, explainability, and controllability
 
-- Abstract in PDF format (1-page max) as an attachment. Abstracts will be lightly reviewed to ensure that the topic is within the scope of the workshop.
-- A full list of authors.
+2. Models that do explicit reasoning with non-parametric components (than implicitly doing in parameters)
 
-We require each accepted work to provide a recorded video presentation up to 12 minutes in length. We will reach out with video uploading instructions after acceptance notification.
+	* Case-based reasoning
+	* Episodic control
+	* On-the-fly Neuro-symbolic Reasoning and Neural Theorem Proving
 
+3. Organizing non-parametric components for efficient use in semi-parametric models
+
+	* Hierarchies/DAGs
+	* Incremental Data structures
+
+4. Applications to existing/new tasks
+
+	* QA and Semantic Parsing
+	* Structured Prediction
+	* Machine Translation
+	* Recommender systems
+	* Information Retrieval and Extraction
+	* New applications
+
+5. Analysis and limitations of current models
+
+	* Faithfulness to the retrieved information
+	* How much retrieval is sufficient?
+	* Efficiency trade-offs
 
 ## Important Dates
 
+(All AoE)
+- Submission deadline (for archival w/o reviews): February 28th, 2022
+- Submission deadline (for archival w/ reviews): March 15th, 2022
+- Notification of acceptance (for archival): March 26th, 2022
+- Submission deadline (for non-archival): April 9th, 2022
+- Notification of acceptance (for non-archival): April 11th, 2022
+- Camera-ready paper deadline (for archival): April 11th, 2022
+- Workshop date: May 26th or 27th (TBA)
 
-- ~~Tuesday, August 31th~~ Friday, September 10th:	Deadline for submission of extended abstracts
-- Wednesday, September 15th:  Notification of acceptance
-- Friday, October 1st:        Deadline for recorded videos
-- Thursday, October 7th:  Workshop date
 
+## Submission guidelines
 
-## Writing guidelines
-
-- These abstracts can be longer than the typical abstracts for a full research paper (max 1 page).
-- Figures and tables are allowed, but will count toward the length limit.
-- References will not count toward the length limit.
-- Abstracts may include work in progress, but should include some preliminary progress rather than a sketch of the idea only.
-- Abstracts do not have to be about a single paper; we allow abstracts that summarize a collection of works under a unified theme (e.g., a series of closely-related papers that build on each other or tackle a common problem). 
-- For writing examples, see the accepted abstracts from other AKBC workshops in previous years (e.g. [SLKB](https://sites.google.com/view/akbc-sci/home#h.p_gSgV1fypJAMf), [SciNLP](https://scinlp.org/#poster-sessions))
+We will use [Open Review](https://openreview.net/) for the submissions. Details TBA.
 
