@@ -13,11 +13,11 @@ Recently, many works have independently proposed a middle ground that combines a
 
 
 <p align="center">
-  <img src="assets/semiparametric.png" width="50%" height="50%">
+  <img src="assets/semiparametric.png" width="55%" height="55%">
 </p>
 
 
-Our workshop hosts keynote talks as well as seeks paper submissions (either archival or non-archival) on this topic. Please check out our [Call for Papers](cpf)!
+Our workshop hosts keynote talks as well as seeks paper submissions (either archival or non-archival) on this topic. Please check out our [Call for Papers](cfp)!
 
 
 ## Important Dates
@@ -29,7 +29,7 @@ Our workshop hosts keynote talks as well as seeks paper submissions (either arch
 - Submission deadline (for non-archival): April 9th, 2022
 - Notification of acceptance (for non-archival): April 11th, 2022
 - Camera-ready paper deadline (for archival): April 11th, 2022
-- Workshop date: May 26th or 27th (TBA)
+- Workshop date: May 26th or 27th, 2022 (TBA)
 
 ## Invited Speakers
 
