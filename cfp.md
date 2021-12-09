@@ -11,26 +11,25 @@ collection: pages_2022
 This workshop aims to invite researchers to share their latest work in designing and understanding semiparametric models. We will welcome papers / work-in-progress on several topics (but not limited to):
 
 1. Understanding properties and capabilities
-
 	* Expressivity of semiparametric models
 	* Generalization in low resource settings
 	* Quick adaptation to newly emerging phenomena/temporally aware
 	* Right to be forgotten/ GDPR /Privacy
 	* Interpretability, explainability, and controllability
 
-2. Models that do explicit reasoning with non-parametric components (than implicitly doing in parameters)
 
+2. Models that do explicit reasoning with non-parametric components (than implicitly doing in parameters)
 	* Case-based reasoning
 	* Episodic control
 	* On-the-fly Neuro-symbolic Reasoning and Neural Theorem Proving
 
-3. Organizing non-parametric components for efficient use in semi-parametric models
 
+3. Organizing non-parametric components for efficient use in semi-parametric models
 	* Hierarchies/DAGs
 	* Incremental Data structures
 
-4. Applications to existing/new tasks
 
+4. Applications to existing/new tasks
 	* QA and Semantic Parsing
 	* Structured Prediction
 	* Machine Translation
@@ -38,11 +37,17 @@ This workshop aims to invite researchers to share their latest work in designing
 	* Information Retrieval and Extraction
 	* New applications
 
-5. Analysis and limitations of current models
 
+5. Analysis and limitations of current models
 	* Faithfulness to the retrieved information
 	* How much retrieval is sufficient?
 	* Efficiency trade-offs
+
+
+We have the archival track as well as the non-archival track. Archival track submissions either go through a standard double-bline review process, or can be submitted with ARR reviews. Non-archival track seeks recently published work---it does not need to be anonymized and will not go through the review process. The submission should clearly indicate the original venue and will be accepted if the organizers think the work will benefit from exposure to the audience of this workshop. Non-archival papers will not be included in the workshop proceedings.
+
+Please see Important Dates for submission deadlines for each track.
+
 
 ## Important Dates
 

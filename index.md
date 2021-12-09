@@ -13,11 +13,11 @@ Recently, many works have independently proposed a middle ground that combines a
 
 
 <p align="center">
-  <img src="assets/semiparametric.png" width="70%" height="70%">
+  <img src="assets/semiparametric.png" width="50%" height="50%">
 </p>
 
 
-Our workshop hosts keynote talks as well as seeks paper submissions (either archival or non-archival) on this topic. Please check out our [Call for Papers](cpf.md)!
+Our workshop hosts keynote talks as well as seeks paper submissions (either archival or non-archival) on this topic. Please check out our [Call for Papers](cpf)!
 
 
 ## Important Dates
