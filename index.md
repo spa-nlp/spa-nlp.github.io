@@ -47,5 +47,5 @@ We will also have a panel discussion with speakers.
 - [Patrick Lewis](https://www.patricklewis.io/), University College London
 - [Sewon Min](https://shmsw25.github.io/), University of Washington
 - [June Thai](https://dungtn.github.io/), University of Massachusetts Amherst
-- [Manzil Zaheer](http://www.manzil.ml/), Google AI
+- [Manzil Zaheer](http://www.manzil.ml/), Google DeepMind
 
