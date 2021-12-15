@@ -24,8 +24,8 @@ Our workshop hosts keynote talks as well as seeks paper submissions (either arch
 - [Danqi Chen](https://www.cs.princeton.edu/~danqic/), Princeton University
 - [Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/), University of Washington & Allen Institute for AI
 - [Andrew McCallum](https://people.cs.umass.edu/~mccallum/), University of Massachusetts, Amherst
-- [Jason Weston](https://ai.facebook.com/people/jason-weston/), Facebook AI Research
 - [Anna Potapenko](http://apotapenko.com/), Google Deepmind
+- [Jason Weston](https://ai.facebook.com/people/jason-weston/), Facebook AI Research
 - [TBA]
 
 We will also have a panel discussion with speakers and other inivted panelists
