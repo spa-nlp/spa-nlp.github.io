@@ -19,24 +19,36 @@ Recently, many works have independently proposed a middle ground that combines a
 
 Our workshop hosts keynote talks as well as seeks paper submissions (either archival or non-archival) on this topic. Please check out our [Call for Papers](cfp)!
 
-
-## Important Dates
-
-(All AoE)
-- Submission deadline: February 28th, 2022
-- Notification of acceptance: March 26th, 2022
-- Camera-ready paper deadline: April 10th, 2022
-- Workshop date: May 26th or 27th, 2022 (TBA)
-
 ## Invited Speakers
 
 - [Danqi Chen](https://www.cs.princeton.edu/~danqic/), Princeton University
 - [Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/), University of Washington & Allen Institute for AI
 - [Andrew McCallum](https://people.cs.umass.edu/~mccallum/), University of Massachusetts, Amherst
 - [Jason Weston](https://ai.facebook.com/people/jason-weston/), Facebook AI Research
-- TBU
+- [Anna Potapenko](http://apotapenko.com/), Google Deepmind
+- [TBA]
 
-We will also have a panel discussion with speakers.
+We will also have a panel discussion with speakers and other inivted panelists
+
+
+## Important Dates
+
+(All AoE)
+- Submission deadline: February 28th, 2022
+- Submission deadline (with ARR reviews): March 19th, 2022
+- Notification of acceptance: March 26th, 2022
+- Camera-ready paper deadline: April 10th, 2022
+- Workshop date: May 26th or 27th, 2022 (TBA)
+
+## Submission guidelines
+We seek submissions of original work or work-in-progress. Submissions can be in the form of long/short papers and should follow the ACL main conference template. We will follow double-blind review process. Authors can choose to make their paper achival/non-archival. All accepted papers will be presented at the workshop.
+We also will accept ACL rolling review (ARR) submissions with reviews. Since these submissions already come with reviews, the submission deadline is much later than the initial deadline.
+
+<!-- Non-archival track also seeks recently accepted / published work---it does not need to be anonymized and will not go through the review process. The submission should clearly indicate the original venue and will be accepted if the organizers think the work will benefit from exposure to the audience of this workshop. -->
+
+
+We will use Open Review for the submissions.
+Submission Link: https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/Spa-NLP
 
 
 ## Organizing Committee
