@@ -23,12 +23,9 @@ Our workshop hosts keynote talks as well as seeks paper submissions (either arch
 ## Important Dates
 
 (All AoE)
-- Submission deadline (for archival w/o reviews): February 28th, 2022
-- Submission deadline (for archival w/ reviews): March 15th, 2022
-- Notification of acceptance (for archival): March 26th, 2022
-- Submission deadline (for non-archival): April 9th, 2022
-- Notification of acceptance (for non-archival): April 11th, 2022
-- Camera-ready paper deadline (for archival): April 11th, 2022
+- Submission deadline: February 28th, 2022
+- Notification of acceptance: March 26th, 2022
+- Camera-ready paper deadline: April 10th, 2022
 - Workshop date: May 26th or 27th, 2022 (TBA)
 
 ## Invited Speakers
