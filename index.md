@@ -49,7 +49,7 @@ We also will accept ACL rolling review (ARR) submissions with reviews. Since the
 
 We will use Open Review for the submissions.
 
-Submission Link: https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/Spa-NLP
+Submission Link: <https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/Spa-NLP>
 
 
 ## Organizing Committee
