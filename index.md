@@ -26,7 +26,6 @@ Our workshop hosts keynote talks as well as seeks paper submissions (either arch
 - [Andrew McCallum](https://people.cs.umass.edu/~mccallum/), University of Massachusetts, Amherst
 - [Anna Potapenko](http://apotapenko.com/), Google Deepmind
 - [Jason Weston](https://ai.facebook.com/people/jason-weston/), Facebook AI Research
-- [TBA]
 
 We will also have a panel discussion with speakers and other inivted panelists
 
