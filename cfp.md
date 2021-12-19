@@ -7,6 +7,9 @@ collection: pages_2022
 
 ## Call for Papers
 
+Large parametric language models have achieved dramatic empirical success across many applications. However, these models lack several desirable properties such as explainability (providing provenance), privacy (ability to remove knowledge from the model), robust controllability, and debuggability. On the other hand, nonparametric models provide many of these features by design such as provenance, ability to incorporate/remove information. However, these models often suffer from weaker empirical performance as compared to deep parametric models.
+
+Recently, many works have independently proposed a middle ground that combines a parametric model (that encodes logic) with a nonparametric model (that retrieves knowledge) in various areas from question answering over natural languages to complex reasoning over knowledge bases to even protein structure predictions. Given the increasingly promising results on various tasks of such semiparametric model, we believe this area is ripe for targeted investigation on understanding efficiency, generalization, limitations, widening its applicability, etc. As a result, we want to host a workshop on this topic.
 
 This workshop aims to invite researchers to share their latest work in designing and understanding semiparametric models. We will welcome papers / work-in-progress on several topics (but not limited to):
 
@@ -44,24 +47,16 @@ This workshop aims to invite researchers to share their latest work in designing
 	* Efficiency trade-offs
 
 
-We have the archival track as well as the non-archival track. Archival track submissions either go through a standard double-bline review process, or can be submitted with ARR reviews. Non-archival track seeks recently published work---it does not need to be anonymized and will not go through the review process. The submission should clearly indicate the original venue and will be accepted if the organizers think the work will benefit from exposure to the audience of this workshop. Non-archival papers will not be included in the workshop proceedings.
+<!-- We have the archival track as well as the non-archival track. Archival track submissions either go through a standard double-bline review process, or can be submitted with ARR reviews. Non-archival track seeks recently published work---it does not need to be anonymized and will not go through the review process. The submission should clearly indicate the original venue and will be accepted if the organizers think the work will benefit from exposure to the audience of this workshop. Non-archival papers will not be included in the workshop proceedings. -->
 
-Please see Important Dates for submission deadlines for each track.
 
 
 ## Important Dates
 
 (All AoE)
-- Submission deadline (for archival w/o reviews): February 28th, 2022
-- Submission deadline (for archival w/ reviews): March 15th, 2022
-- Notification of acceptance (for archival): March 26th, 2022
-- Submission deadline (for non-archival): April 9th, 2022
-- Notification of acceptance (for non-archival): April 11th, 2022
-- Camera-ready paper deadline (for archival): April 11th, 2022
-- Workshop date: May 26th or 27th (TBA)
-
-
-## Submission guidelines
-
-We will use [Open Review](https://openreview.net/) for the submissions. Details TBA.
+- Submission deadline: February 28th, 2022
+- Submission deadline (with ARR reviews): March 19th, 2022
+- Notification of acceptance: March 26th, 2022
+- Camera-ready paper deadline: April 10th, 2022
+- Workshop date: May 26th or 27th, 2022 (TBA)
 
