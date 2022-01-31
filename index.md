@@ -16,8 +16,10 @@ Recently, many works have independently proposed a middle ground that combines a
   <img src="assets/semiparametric.png" width="55%" height="55%">
 </p>
 
+## Submissions
+Our workshop seeks paper submissions on this topic. Submissions can be long (up to 8 pages) or short (up to 4 pages) and should follow the ACL paper tempate. Authors can choose their paper to be archival or non-archival. We are also planning to accept ARR submissions (with reviews). Since those submissions will come with reviews, we will have a later deadline for it.
 
-Our workshop hosts keynote talks as well as seeks paper submissions (either archival or non-archival) on this topic. Please check out our [Call for Papers](cfp)!
+Please check out our [Call for Papers](cfp)!
 
 ## Invited Speakers
 
