@@ -39,7 +39,7 @@ We will also have a panel discussion with speakers and other inivted panelists
 - Submission deadline (with ARR reviews): March 19th, 2022
 - Notification of acceptance: March 26th, 2022
 - Camera-ready paper deadline: April 10th, 2022
-- Workshop date: May 26th or 27th, 2022 (TBA)
+- Workshop date: May 27th, 2022
 
 ## Submission guidelines
 We seek submissions of original work or work-in-progress. Submissions can be in the form of long/short papers and should follow the ACL main conference template. We will follow double-blind review process. Authors can choose to make their paper achival/non-archival. All accepted papers will be presented at the workshop.
