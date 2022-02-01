@@ -36,5 +36,5 @@ permalink: /organization
 - Wenhan Xiong
 - Yichen Jiang
 - Yizhong Wang
-- Yuxiang WuAmeya Godbole
+- Yuxiang Wu
 {: .one-column}
