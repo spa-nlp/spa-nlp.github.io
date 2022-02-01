@@ -60,3 +60,5 @@ Submission Link: <https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/S
 - [June Thai](https://dungtn.github.io/), University of Massachusetts Amherst
 - [Manzil Zaheer](http://www.manzil.ml/), Google DeepMind
 
+## Sponsors (Confirmed)
+![Google]({{ "/assets/google-logo.svg" | absolute_url }})
