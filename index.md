@@ -61,4 +61,4 @@ Submission Link: <https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/S
 - [Manzil Zaheer](http://www.manzil.ml/), Google DeepMind
 
 ## Sponsors (Confirmed)
-![Google]({{ "/assets/images/google-logo.svg" | absolute_url }})
+![Google]({{ "/assets/google-logo.svg" | absolute_url }})
