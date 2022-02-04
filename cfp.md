@@ -47,8 +47,11 @@ This workshop aims to invite researchers to share their latest work in designing
 	* Efficiency trade-offs
 
 
-<!-- We have the archival track as well as the non-archival track. Archival track submissions either go through a standard double-bline review process, or can be submitted with ARR reviews. Non-archival track seeks recently published work---it does not need to be anonymized and will not go through the review process. The submission should clearly indicate the original venue and will be accepted if the organizers think the work will benefit from exposure to the audience of this workshop. Non-archival papers will not be included in the workshop proceedings. -->
-
+We will have an archival track as well as a non-archival track.
+Archival track submissions either go through a standard double-bline review process, or can be submitted with ARR reviews. 
+The non-archival track seeks recently published work---it does not need to be anonymized and will not go through the review process. 
+The submission should clearly indicate the original venue and will be accepted if the commitee think the work will benefit from exposure to the audience of the workshop. 
+Non-archival papers will not be included in the workshop proceedings.
 
 
 ## Important Dates
@@ -56,6 +59,7 @@ This workshop aims to invite researchers to share their latest work in designing
 (All AoE)
 - Submission deadline: February 28th, 2022
 - Submission deadline (with ARR reviews): March 23rd, 2022
+- Submission deadline (Non-archival): March 23rd, 2022
 - Notification of acceptance: March 26th, 2022
 - Camera-ready paper deadline: April 10th, 2022
 - Workshop date: May 27th, 2022
