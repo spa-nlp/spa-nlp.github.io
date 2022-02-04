@@ -55,8 +55,8 @@ This workshop aims to invite researchers to share their latest work in designing
 
 (All AoE)
 - Submission deadline: February 28th, 2022
-- Submission deadline (with ARR reviews): March 19th, 2022
+- Submission deadline (with ARR reviews): March 23rd, 2022
 - Notification of acceptance: March 26th, 2022
 - Camera-ready paper deadline: April 10th, 2022
-- Workshop date: May 26th or 27th, 2022 (TBA)
+- Workshop date: May 27th, 2022
 
