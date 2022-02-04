@@ -7,7 +7,7 @@ collection: pages_2022
 
 ## News and Updates:
 
-* **Deadlines extended: In order to accomodate more submissions, we've extended the submission deadlines by a few days! Please check the new [dates]() below!**
+* **Deadlines extended: In order to accomodate more submissions, we've extended the submission deadlines by a few days! Please check the new [dates](#important-dates) below!**
 * **Date confirmed! Spa-NLP @ ACL2022 will be held on the 27th May** 
 
 ## Overview
