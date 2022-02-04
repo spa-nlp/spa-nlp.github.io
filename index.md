@@ -17,9 +17,16 @@ Recently, many works have independently proposed a middle ground that combines a
 </p>
 
 ## Submissions
-Our workshop seeks paper submissions on this topic. Submissions can be long (up to 8 pages) or short (up to 4 pages) and should follow the ACL paper tempate. Authors can choose their paper to be archival or non-archival. We are also planning to accept ARR submissions (with reviews). Since those submissions will come with reviews, we will have a later deadline for it.
 
-Please check out our [Call for Papers](cfp)!
+Our workshop seeks paper submissions which address this topic. 
+Submissions can be long (up to 8 pages) or short (up to 4 pages) and should follow the ACL paper tempate. 
+Authors will submit papers for peer review from our program commitee.
+Alternatively, we will also be accepting ARR submissions (with reviews).
+Since submissions from ARR will come with reviews, the submission deadline for these papers will be later.
+
+Authors of relevant, already-published work can also choose to submit their work to a non-archival track. 
+
+Please check out our [Call for Papers](cfp) for more details!
 
 ## Invited Speakers
 
@@ -37,6 +44,7 @@ We will also have a panel discussion with speakers and other inivted panelists
 (All AoE)
 - Submission deadline: February 28th, 2022
 - Submission deadline (with ARR reviews): March 23th, 2022
+- Submission deadline (Non-archival): March 23rd, 2022
 - Notification of acceptance: March 26th, 2022
 - Camera-ready paper deadline: April 10th, 2022
 - Workshop date: May 27th, 2022
