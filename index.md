@@ -36,7 +36,7 @@ We will also have a panel discussion with speakers and other inivted panelists
 
 (All AoE)
 - Submission deadline: February 28th, 2022
-- Submission deadline (with ARR reviews): March 19th, 2022
+- Submission deadline (with ARR reviews): March 23th, 2022
 - Notification of acceptance: March 26th, 2022
 - Camera-ready paper deadline: April 10th, 2022
 - Workshop date: May 27th, 2022
