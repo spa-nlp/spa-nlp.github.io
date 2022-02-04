@@ -5,6 +5,11 @@ order: 1
 collection: pages_2022
 ---
 
+## News and Updates:
+
+* **Deadlines extended: In order to accomodate more submissions, we've extended the submission deadlines by a few days! Please check the new [dates]() below!**
+* **Date confirmed! Spa-NLP @ ACL2022 will be held on the 27th May** 
+
 ## Overview
 
 Large parametric language models have achieved dramatic empirical success across many applications. However, these models lack several desirable properties such as explainability (providing provenance), privacy (ability to remove knowledge from the model), robust controllability, and debuggability. On the other hand, nonparametric models provide many of these features by design such as provenance, ability to incorporate/remove information. However, these models often suffer from weaker empirical performance as compared to deep parametric models.
@@ -28,6 +33,8 @@ Authors of relevant, already-published work can also choose to submit their work
 
 Please check out our [Call for Papers](cfp) for more details!
 
+> **Deadlines **: Be careful, or else!
+
 ## Invited Speakers
 
 - [Danqi Chen](https://www.cs.princeton.edu/~danqic/), Princeton University
@@ -42,9 +49,9 @@ We will also have a panel discussion with speakers and other inivted panelists
 ## Important Dates
 
 (All AoE)
-- Submission deadline: February 28th, 2022
-- Submission deadline (with ARR reviews): March 23th, 2022
-- Submission deadline (Non-archival): March 23rd, 2022
+- Submission deadline (for papers requiring peer review): March 3rd, 2022
+- Submission deadline (with ARR reviews): March 24th, 2022
+- Submission deadline (Non-archival): March 24th, 2022
 - Notification of acceptance: March 26th, 2022
 - Camera-ready paper deadline: April 10th, 2022
 - Workshop date: May 27th, 2022
