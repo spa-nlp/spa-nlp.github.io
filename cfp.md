@@ -57,10 +57,9 @@ Non-archival papers will not be included in the workshop proceedings.
 ## Important Dates
 
 (All AoE)
-- Submission deadline: February 28th, 2022
-- Submission deadline (with ARR reviews): March 23rd, 2022
-- Submission deadline (Non-archival): March 23rd, 2022
+- Submission deadline (for papers requiring peer review): March 3rd, 2022
+- Submission deadline (with ARR reviews): March 24th, 2022
+- Submission deadline (Non-archival): March 24th, 2022
 - Notification of acceptance: March 26th, 2022
 - Camera-ready paper deadline: April 10th, 2022
 - Workshop date: May 27th, 2022
-
