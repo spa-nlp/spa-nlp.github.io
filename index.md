@@ -5,10 +5,10 @@ order: 1
 collection: pages_2022
 ---
 
-## News and Updates:
 
-* **Deadlines extended: In order to accomodate more submissions, we've extended the submission deadlines by a few days! Please check the new [dates](#important-dates) below!**
-* **Date confirmed! Spa-NLP @ ACL2022 will be held on the 27th May** 
+**Update 02/04/2021: Deadlines extended! In order to accomodate more submissions, we've extended the submission deadlines by a few days! Please check the new [dates](#important-dates) below!**
+
+**Update 02/04/2021: Date confirmed! Spa-NLP @ ACL2022 will be held on the 27th May** 
 
 ## Overview
 
@@ -33,8 +33,6 @@ Authors of relevant, already-published work can also choose to submit their work
 
 Please check out our [Call for Papers](cfp) for more details!
 
-> **Deadlines **: Be careful, or else!
-
 ## Invited Speakers
 
 - [Danqi Chen](https://www.cs.princeton.edu/~danqic/), Princeton University
@@ -49,7 +47,7 @@ We will also have a panel discussion with speakers and other inivted panelists
 ## Important Dates
 
 (All AoE)
-- Submission deadline (for papers requiring peer review): March 3rd, 2022
+- Submission deadline (for papers requiring peer review): ~~February 28th~~ March 3rd, 2022
 - Submission deadline (with ARR reviews): March 24th, 2022
 - Submission deadline (Non-archival): March 24th, 2022
 - Notification of acceptance: March 26th, 2022
@@ -67,6 +65,9 @@ We will use Open Review for the submissions.
 
 Submission Link: <https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/Spa-NLP>
 
+## Best paper award
+Thanks to generous support from our sponsors, we will award the best paper award (with cash prize) to one of the submissions selected by our program committee and organizing committee. The best paper will be given the opportunity for a lightning talk to introduce their work.
+
 
 ## Organizing Committee
 - [Rajarshi Das](http://rajarshd.github.io/), University of Massachusetts Amherst
@@ -76,4 +77,7 @@ Submission Link: <https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/S
 - [Manzil Zaheer](http://www.manzil.ml/), Google DeepMind
 
 ## Sponsors (Confirmed)
+
+![Meta]({{ "/assets/meta-logo.svg" | absolute_url }})
 ![Google]({{ "/assets/google-logo.svg" | absolute_url }})
+
