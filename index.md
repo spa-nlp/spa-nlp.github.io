@@ -21,6 +21,8 @@ Recently, many works have independently proposed a middle ground that combines a
   <img src="assets/semiparametric.png" width="55%" height="55%">
 </p>
 
+
+
 ## Submissions
 
 Our workshop seeks paper submissions which address this topic. 
@@ -33,6 +35,8 @@ Authors of relevant, already-published work can also choose to submit their work
 
 Please check out our [Call for Papers](cfp) for more details!
 
+
+
 ## Invited Speakers
 
 - [Danqi Chen](https://www.cs.princeton.edu/~danqic/), Princeton University
@@ -42,6 +46,7 @@ Please check out our [Call for Papers](cfp) for more details!
 - [Jason Weston](https://ai.facebook.com/people/jason-weston/), Facebook AI Research
 
 We will also have a panel discussion with speakers and other inivted panelists
+
 
 
 ## Important Dates
@@ -54,6 +59,8 @@ We will also have a panel discussion with speakers and other inivted panelists
 - Camera-ready paper deadline: April 10th, 2022
 - Workshop date: May 27th, 2022
 
+
+
 ## Submission guidelines
 We seek submissions of original work or work-in-progress. Submissions can be in the form of long/short papers and should follow the ACL main conference template. We will follow double-blind review process. Authors can choose to make their paper achival/non-archival. All accepted papers will be presented at the workshop.
 We also will accept ACL rolling review (ARR) submissions with reviews. Since these submissions already come with reviews, the submission deadline is much later than the initial deadline.
@@ -65,8 +72,11 @@ We will use Open Review for the submissions.
 
 Submission Link: <https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/Spa-NLP>
 
+
+
 ## Best paper award
 Thanks to generous support from our sponsors, we will award the best paper award (with cash prize) to one of the submissions selected by our program committee and organizing committee. The best paper will be given the opportunity for a lightning talk to introduce their work.
+
 
 
 ## Organizing Committee
@@ -76,8 +86,11 @@ Thanks to generous support from our sponsors, we will award the best paper award
 - [June Thai](https://dungtn.github.io/), University of Massachusetts Amherst
 - [Manzil Zaheer](http://www.manzil.ml/), Google DeepMind
 
+
+
 ## Sponsors (Confirmed)
 
-![Meta]({{ "/assets/meta-logo.svg" | absolute_url }})
+
+![Meta]({{ "/assets/meta-logo.png" | absolute_url }})
 ![Google]({{ "/assets/google-logo.svg" | absolute_url }})
 
