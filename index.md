@@ -5,6 +5,11 @@ order: 1
 collection: pages_2022
 ---
 
+## News and Updates:
+
+* **Deadlines extended: In order to accomodate more submissions, we've extended the submission deadlines by a few days! Please check the new [dates](#important-dates) below!**
+* **Date confirmed! Spa-NLP @ ACL2022 will be held on the 27th May** 
+
 ## Overview
 
 Large parametric language models have achieved dramatic empirical success across many applications. However, these models lack several desirable properties such as explainability (providing provenance), privacy (ability to remove knowledge from the model), robust controllability, and debuggability. On the other hand, nonparametric models provide many of these features by design such as provenance, ability to incorporate/remove information. However, these models often suffer from weaker empirical performance as compared to deep parametric models.
@@ -16,8 +21,19 @@ Recently, many works have independently proposed a middle ground that combines a
   <img src="assets/semiparametric.png" width="55%" height="55%">
 </p>
 
+## Submissions
 
-Our workshop hosts keynote talks as well as seeks paper submissions (either archival or non-archival) on this topic. Please check out our [Call for Papers](cfp)!
+Our workshop seeks paper submissions which address this topic. 
+Submissions can be long (up to 8 pages) or short (up to 4 pages) and should follow the ACL paper tempate. 
+Authors will submit papers for peer review from our program commitee.
+Alternatively, we will also be accepting ARR submissions (with reviews).
+Since submissions from ARR will come with reviews, the submission deadline for these papers will be later.
+
+Authors of relevant, already-published work can also choose to submit their work to a non-archival track. 
+
+Please check out our [Call for Papers](cfp) for more details!
+
+> **Deadlines **: Be careful, or else!
 
 ## Invited Speakers
 
@@ -33,11 +49,12 @@ We will also have a panel discussion with speakers and other inivted panelists
 ## Important Dates
 
 (All AoE)
-- Submission deadline: February 28th, 2022
-- Submission deadline (with ARR reviews): March 19th, 2022
+- Submission deadline (for papers requiring peer review): March 3rd, 2022
+- Submission deadline (with ARR reviews): March 24th, 2022
+- Submission deadline (Non-archival): March 24th, 2022
 - Notification of acceptance: March 26th, 2022
 - Camera-ready paper deadline: April 10th, 2022
-- Workshop date: May 26th or 27th, 2022 (TBA)
+- Workshop date: May 27th, 2022
 
 ## Submission guidelines
 We seek submissions of original work or work-in-progress. Submissions can be in the form of long/short papers and should follow the ACL main conference template. We will follow double-blind review process. Authors can choose to make their paper achival/non-archival. All accepted papers will be presented at the workshop.
@@ -58,3 +75,5 @@ Submission Link: <https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/S
 - [June Thai](https://dungtn.github.io/), University of Massachusetts Amherst
 - [Manzil Zaheer](http://www.manzil.ml/), Google DeepMind
 
+## Sponsors (Confirmed)
+![Google]({{ "/assets/google-logo.svg" | absolute_url }})
