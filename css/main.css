@@ -163,3 +163,14 @@ td {
 #schedule li {
   margin-bottom: 0.3rem;
 }
+img {
+  margin-top: 20px;
+  margin-right: 20px;
+}
+img[alt="Meta"] {
+  height: 70px;
+  margin-bottom: 25px;
+}
+img[alt="Google"] {
+
+}
