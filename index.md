@@ -5,10 +5,11 @@ order: 1
 collection: pages_2022
 ---
 
+**Update 03/03/2022: Due to a technical issue on the submission site, we've extended the submission deadline to 03/08. Please check the new [dates](#important-dates) below!**
 
-**Update 02/04/2021: Deadlines extended! In order to accomodate more submissions, we've extended the submission deadlines by a few days! Please check the new [dates](#important-dates) below!**
+**Update 02/04/2022: Deadlines extended! In order to accomodate more submissions, we've extended the submission deadlines by a few days! Please check the new [dates](#important-dates) below!**
 
-**Update 02/04/2021: Date confirmed! Spa-NLP @ ACL2022 will be held on the 27th May** 
+**Update 02/04/2022: Date confirmed! Spa-NLP @ ACL2022 will be held on the 27th May** 
 
 ## Overview
 
@@ -52,7 +53,7 @@ We will also have a panel discussion with speakers and other inivted panelists
 ## Important Dates
 
 (All AoE)
-- Submission deadline (for papers requiring peer review): ~~February 28th~~ March 3rd, 2022
+- Submission deadline (for papers requiring peer review): ~~February 28th~~ ~~March 3rd, 2022~~ March 8th, 2022
 - Submission deadline (with ARR reviews): March 24th, 2022
 - Submission deadline (Non-archival): March 24th, 2022
 - Notification of acceptance: March 26th, 2022

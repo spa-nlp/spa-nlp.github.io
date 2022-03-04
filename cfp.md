@@ -57,7 +57,7 @@ Non-archival papers will not be included in the workshop proceedings.
 ## Important Dates
 
 (All AoE)
-- Submission deadline (for papers requiring peer review): ~~February 28th~~ March 3rd, 2022
+- Submission deadline (for papers requiring peer review): ~~February 28th~~ ~~March 3rd, 2022~~ March 8th, 2022
 - Submission deadline (with ARR reviews): March 24th, 2022
 - Submission deadline (Non-archival): March 24th, 2022
 - Notification of acceptance: March 26th, 2022
