@@ -63,3 +63,25 @@ Non-archival papers will not be included in the workshop proceedings.
 - Notification of acceptance: March 26th, 2022
 - Camera-ready paper deadline: April 10th, 2022
 - Workshop date: May 27th, 2022
+
+
+## Submission guidelines
+We seek submissions of original work or work-in-progress. Submissions can be in the form of long/short papers and should follow the ACL main conference template.
+
+#### Archival track
+We will follow double-blind review process. Authors can choose to make their paper achival/non-archival. All accepted papers will be presented at the workshop.
+We also will accept ACL rolling review (ARR) submissions with reviews. Since these submissions already come with reviews, the submission deadline is much later than the initial deadline. 
+
+We will use Open Review for the submissions.
+
+For papers needing review: click "ACL 2022 Workshop Spa-NLP submission"
+For papers from ARR: click "ACL 2022 Workshop Spa-NLP commitment Submission"
+Submission Link: <https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/Spa-NLP>
+
+#### Non-archival track
+Non-archival track also seeks recently accepted / published work---it does not need to be anonymized and will not go through the review process. The submission should clearly indicate the original venue and will be accepted if the organizers think the work will benefit from exposure to the audience of this workshop.
+Submission Link: https://forms.gle/7cJCvQbXmX9LPEch8
+
+
+## Best paper award
+Thanks to generous support from our sponsors, we will award the best paper award (with cash prize) to one of the submissions selected by our program committee and organizing committee. The best paper will be given the opportunity for a lightning talk to introduce their work.
