@@ -69,12 +69,13 @@ We seek submissions of original work or work-in-progress. Submissions can be in 
 We will follow double-blind review process. We also will accept ACL rolling review (ARR) submissions with reviews. Since these submissions already come with reviews, the submission deadline is much later than the initial deadline. We will use Open Review for the submissions.
 
 Submission Link: <https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/Spa-NLP>
-For papers needing review: click "ACL 2022 Workshop Spa-NLP submission"
-For papers from ARR: click "ACL 2022 Workshop Spa-NLP commitment Submission"
+* For papers needing review: click "ACL 2022 Workshop Spa-NLP submission"
+* For papers from ARR: click "ACL 2022 Workshop Spa-NLP commitment Submission"
 
 #### Non-archival track
-Non-archival track also seeks recently accepted / published work---it does not need to be anonymized and will not go through the review process. The submission should clearly indicate the original venue and will be accepted if the organizers think the work will benefit from exposure to the audience of this workshop.
-Submission Link: https://forms.gle/7cJCvQbXmX9LPEch8
+Non-archival track seeks recently accepted / published work as well as work-in-progress. It does not need to be anonymized and will not go through the review process. The submission should clearly indicate the original venue and will be accepted if the organizers think the work will benefit from exposure to the audience of this workshop.
+
+Submission Link: <https://forms.gle/7cJCvQbXmX9LPEch8>
 
 
 ## Best paper award
