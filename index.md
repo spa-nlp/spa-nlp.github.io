@@ -5,6 +5,8 @@ order: 1
 collection: pages_2022
 ---
 
+**Update 03/15/2022: The standard deadline has passed, but you still can make ARR commitment or make non-archival submissions (ddl March 24th)! We award the best paper award as well as registration support for student authors. See details [below](#best-paper-award)!**
+
 **Update 03/03/2022: Due to a technical issue on the submission site, we've extended the submission deadline to 03/08. Please check the new [dates](#important-dates) below!**
 
 **Update 02/04/2022: Deadlines extended! In order to accomodate more submissions, we've extended the submission deadlines by a few days! Please check the new [dates](#important-dates) below!**
@@ -81,6 +83,8 @@ Submission Link: <https://forms.gle/7cJCvQbXmX9LPEch8>
 ## Best paper award
 Thanks to generous support from our sponsors, we will award the best paper award (with cash prize) to one of the submissions selected by our program committee and organizing committee. The best paper will be given the opportunity for a lightning talk to introduce their work.
 
+## Registration support
+Thanks to generous support from our sponsors, we will support registration fees (either in-person or virtual) to student authors of the accepted papers (either archival, ARR commitment or non-archival).
 
 
 ## Organizing Committee
