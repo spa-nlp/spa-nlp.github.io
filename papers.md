@@ -7,27 +7,27 @@ collection: pages_2022
 
 ## Archival Papers
 
-<a href="assets/papers/5.pdf" target="_blank">
+<a href="assets/papers/6.pdf" target="_blank">
 **Efficient Machine Translation Domain Adaptation**
 </a><br />
 Pedro Henrique Martins, Zita Marinho, Andre Martins
 
-<a href="assets/papers/6.pdf" target="_blank">
+<a href="assets/papers/7.pdf" target="_blank">
 **Improving Discriminative Learning for Zero-Shot Relation Extraction**
 </a><br />
 Van-Hien Tran, Hiroki Ouchi, Taro Watanabe, Yuji Matsumoto
 
-<a href="assets/papers/7.pdf" target="_blank">
+<a href="assets/papers/8.pdf" target="_blank">
 **Choose Your QA Model Wisely: A Systematic Study of Generative and Extractive Readers for Question Answering**
 </a><br />
 Man Luo, Kazuma Hashimoto, Semih Yavuz, Zhiwei Liu, Chitta Baral, Yingbo Zhou
 	
-<a href="assets/papers/3.pdf" target="_blank">
+<a href="assets/papers/4.pdf" target="_blank">
 **Field Extraction from Forms with Unlabeled Data**
 </a><br />
 Mingfei Gao, Zeyuan Chen, Nikhil Naik, Kazuma Hashimoto, Caiming Xiong, Ran Xu
 
-<a href="assets/papers/4.pdf" target="_blank">
+<a href="assets/papers/5.pdf" target="_blank">
 **Knowledge Base Index Compression via Dimensionality and Precision Reduction**
 </a><br />
 Vilém Zouhar, Marius Mosbach, Miaoran Zhang, Dietrich Klakow

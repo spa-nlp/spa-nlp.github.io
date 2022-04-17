@@ -96,7 +96,7 @@ Thanks to generous support from our sponsors, we will support registration fees 
 - [Manzil Zaheer](http://www.manzil.ml/), Google DeepMind
 
 
-## Sponsors (Confirmed)
+## Sponsors
 
 
 ![Meta]({{ "/assets/meta-logo.png" | absolute_url }})

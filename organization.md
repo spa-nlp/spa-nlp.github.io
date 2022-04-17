@@ -14,7 +14,7 @@ permalink: /organization
 - [Sewon Min](https://shmsw25.github.io/), University of Washington
 
 
-## Program Committee (Confirmed)
+## Program Committee
 - Ameya Godbole
 - Ashwin Paranjape
 - Ahsaas Bajaj
