@@ -5,13 +5,15 @@ order: 1
 collection: pages_2022
 ---
 
-**Update 03/15/2022: The standard deadline has passed, but you still can make ARR commitment or make non-archival submissions (ddl March 24th)! We award the best paper award as well as registration support for student authors. See details [below](#best-paper-award)!**
+**Update 04/2022** List of [accepted papers](papers) is out!
 
-**Update 03/03/2022: Due to a technical issue on the submission site, we've extended the submission deadline to 03/08. Please check the new [dates](#important-dates) below!**
+[](**Update 03/15/2022: The standard deadline has passed, but you still can make ARR commitment or make non-archival submissions (ddl March 24th)! We award the best paper award as well as registration support for student authors. See details [below](#best-paper-award)!**)
 
-**Update 02/04/2022: Deadlines extended! In order to accomodate more submissions, we've extended the submission deadlines by a few days! Please check the new [dates](#important-dates) below!**
+[](**Update 03/03/2022: Due to a technical issue on the submission site, we've extended the submission deadline to 03/08. Please check the new [dates](#important-dates) below!**)
 
-**Update 02/04/2022: Date confirmed! Spa-NLP @ ACL2022 will be held on the 27th May** 
+[](**Update 02/04/2022: Deadlines extended! In order to accomodate more submissions, we've extended the submission deadlines by a few days! Please check the new [dates](#important-dates) below!**)
+
+[](**Update 02/04/2022: Date confirmed! Spa-NLP @ ACL2022 will be held on the 27th May**)
 
 ## Overview
 
@@ -63,7 +65,6 @@ We will also have a panel discussion with speakers and other inivted panelists
 - Workshop date: May 27th, 2022
 
 
-
 ## Submission guidelines
 We seek submissions of original work or work-in-progress. Submissions can be in the form of long/short papers and should follow the ACL main conference template. Authors can choose to make their paper achival/non-archival. All accepted papers will be presented at the workshop.
 
@@ -93,7 +94,6 @@ Thanks to generous support from our sponsors, we will support registration fees 
 - [Sewon Min](https://shmsw25.github.io/), University of Washington
 - [June Thai](https://dungtn.github.io/), University of Massachusetts Amherst
 - [Manzil Zaheer](http://www.manzil.ml/), Google DeepMind
-
 
 
 ## Sponsors (Confirmed)
