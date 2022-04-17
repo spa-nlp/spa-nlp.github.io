@@ -74,7 +74,6 @@ Xiang Yue, Xiaoman Pan, Wenlin Yao, Dian Yu, Dong Yu, Jianshu Chen
 </a><br />
 Gautier Izacard, Mathilde Caron, Lucas Hosseini, Sebastian Riedel, Piotr Bojanowski, Armand Joulin, Edouard Grave
 
-[](<a href="assets/papers/N9.pdf" target="_blank">**Internet-augmented language models through few-shot prompting for open-domain question answering**</a><br />Angeliki Lazaridou, Elena Gribovskaya, Wojciech Stokowiec, Nikolai Grigorev)
 Internet-augmented language models through few-shot prompting for open-domain question answering
 <br />
 Anonymous
