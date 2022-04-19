@@ -5,7 +5,7 @@ order: 1
 collection: pages_2022
 ---
 
-**Update 04/2022** List of [accepted papers](papers) is out!
+**Update 04/2022** List of [accepted papers](papers) and [the schedule](#workshop-schedule) are out!
 
 [](**Update 03/15/2022: The standard deadline has passed, but you still can make ARR commitment or make non-archival submissions (ddl March 24th)! We award the best paper award as well as registration support for student authors. See details [below](#best-paper-award)!**)
 
@@ -50,8 +50,27 @@ Please check out our [Call for Papers](cfp) for more details!
 - [Anna Potapenko](http://apotapenko.com/), Google Deepmind
 - [Jason Weston](https://ai.facebook.com/people/jason-weston/), Facebook AI Research
 
-We will also have a panel discussion with speakers and other inivted panelists
+We will also have a panel discussion with speakers and other inivted panelists.
 
+
+## Workshop Schedule
+
+The workshop will be held on May 27th from 09:20 to 18:00 in Irish Time (GMT+1).
+
+* 09:20–09:30 - Opening remark
+* 09:30–10:10	-	Invited talk 1: Anna Potapenko
+* 10:10–10:40	- Contributed talks
+* 10:40–11:00	- Coffee break
+* 11:00–12:00	- Poster session I
+* 12:00–13:30	- Lunch
+* 13:30–14:10	- Invited talk 2: Danqi Chen
+* 14:10–14:50	- Invited talk 3: Jason Weston
+* 14:50–15:00	- Coffee break
+* 15:00–16:00	- Poster session II
+* 16:00–16:40	- Invited talk 4: Andrew McCallum
+* 16:40–17:20	- Invited talk 5: Hanna Hajishirzi
+* 17:20–17:50	- Panel discussion
+* 17:50–18:00	- Closing remark
 
 
 ## Important Dates
