@@ -57,21 +57,184 @@ We will also have a panel discussion with speakers and other inivted panelists.
 
 The workshop will be held on May 27th from 09:20 to 18:00 in Irish Time (GMT+1).
 
-* 09:20–09:30 - Opening remark
-* 09:30–10:10	-	Invited talk 1: Anna Potapenko
-* 10:10–10:40	- Contributed talks
-* 10:40–11:00	- Coffee break
-* 11:00–12:00	- Poster session I
-* 12:00–13:30	- Lunch
-* 13:30–14:10	- Invited talk 2: Danqi Chen
-* 14:10–14:50	- Invited talk 3: Jason Weston
-* 14:50–15:00	- Coffee break
-* 15:00–16:00	- Poster session II
-* 16:00–16:40	- Invited talk 4: Andrew McCallum
-* 16:40–17:20	- Invited talk 5: Hanna Hajishirzi
-* 17:20–17:50	- Panel discussion
-* 17:50–18:00	- Closing remark
-
+<div id="schedule">
+    <ul>
+        <li>
+          09:20–09:30 - Opening remark
+        </li>
+        <li>
+          09:30–10:10	-	Invited talk 1: Anna Potapenko -- <b>TITLE TBA</b> <button class="btn btn-outline-info btn-xs" type="button" data-toggle="collapse" data-target="#anna-card" aria-expanded="false" aria-controls="reut-card">Abstract</button> <div class="collapse" id="anna-card"><div class="card card-body">ABSTRACT TBA</div></div>
+        </li>
+        <li>
+          10:10–10:50	- Contributed talks
+          <ul>
+            <li>
+              "Efficient Machine Translation Domain Adaptation" by Pedro Henrique Martins, Zita Marinho, Andre Martins
+            </li>
+            <li>
+              "Internet-augmented language models through few-shot prompting for open-domain question answering" by Angeliki Lazaridou, Elena Gribovskaya, Wojciech Stokowiec, Nikolai Grigorev
+            </li>
+            <li>
+              "Towards Unsupervised Dense Information Retrieval with Contrastive Learning" by Gautier Izacard, Mathilde Caron, Lucas Hosseini, Sebastian Riedel,  Piotr Bojanowski, Armand Joulin, Edouard Grave
+            </li>
+            <li>
+              "Towards Continual Knowledge Learning of Language Models" by Joel Jang, Seonghyeon Ye, Sohee Yang, Joongbo Shin, Janghoon  Han, Gyeonghun Kim, Stanley Jungkyu Choi, Minjoon Seo
+            </li>
+          </ul>
+        </li>
+        <li>
+          10:50–11:00	- Coffee break
+        </li>
+        <li>
+          11:00–12:00	- Poster session I <button class="btn btn-outline-info btn-xs" type="button" data-toggle="collapse" data-target="#papers1-card" aria-expanded="false" aria-controls="papers1-card">Paper list</button> <div class="collapse" id="papers1-card">
+            <ul>
+              <li>
+                "Efficient Machine Translation Domain Adaptation" by
+                Pedro Henrique Martins, Zita Marinho, Andre Martins
+              </li>
+              <li>
+                "Improving Discriminative Learning for Zero-Shot Relation Extraction" by
+                Van-Hien Tran, Hiroki Ouchi, Taro Watanabe, Yuji Matsumoto
+              </li>
+              <li>
+                "Learning To Retrieve Prompts for In-Context Learning" by
+                Ohad Rubin, Jonathan Herzig, Jonathan Berant
+              </li>
+              <li>
+                "TemporalWiki: A Lifelong Benchmark for Training and Evaluating Ever-Evolving Language Models" by
+                Joel Jang, Seonghyeon ye, Changho Lee, Sohee Yang, Joongbo Shin, Janghoon Han, Gyeonghun Kim, Minjoon Seo
+              </li>
+              <li>
+                "Learning to Retrieve Passages without Supervision" by
+                Ori Ram,Gal Shachaf,Omer Levy,Jonathan Berant,Amir Globerson
+              </li>
+              <li>
+                "Is Retriever Merely an Approximator of Reader?" by
+                Sohee Yang,Minjoon Seo
+              </li>
+              <li>
+                "Towards Continual Knowledge Learning of Language Models" by
+                Joel Jang, Seonghyeon Ye, Sohee Yang, Joongbo Shin, Janghoon Han, Gyeonghun Kim, Stanley Jungkyu Choi, Minjoon Seo
+              </li>
+              <li>
+                "Hyperlink-induced Pre-training for Passage Retrieval in Open-domain Question Answering" by
+                Jiawei Zhou,Xiaoguang,Lifeng Shang,Lan Luo,Ke Zhan,Enrui Hu,Xinyu Zhang,Hao Jiang,Zhao Cao,Fan Yu,Xin Jiang,Qun Liu,Lei Chen
+              </li>
+              <li>
+                "Learning Cross-Lingual IR from an English Retriever" by
+                Yulong Li, Martin Franz, Md Arafat Sultan, Bhavani Iyer, Young-Suk Lee, Avirup Sil
+              </li>
+              <li>
+                "KNN-BERT: Fine-Tuning Pre-Trained Models with KNN Classifier" by
+                Linyang Li, Demin Song, Ruotian Ma, Xipeng Qiu, Xuanjing Huang
+              </li>
+              <li>
+                "GUD-IR: Generative Retrieval for Semiparametric Models" by
+                Aman Madaan, Niket Tandon,  Peter Clark, Yiming Yang
+              </li>
+              <li>
+                "Exploring Dual Encoder Architectures for Question Answering" by
+                Zhe Dong, Jianmo Ni, Daniel M. Bikel, Enrique Alfonseca, Yuan Wang, Chen Qu, Imed Zitouni
+              </li>
+              <li>
+                "PERKGQA: Question Answering over Personalized Knowledge Graphs" by
+                Ritam Dutt, Kasturi Bhattacharjee, Rashmi Gangadharaiah, Dan Roth, Carolyn Rose
+              </li>
+              <li>
+                "Towards Interactive Language Modeling" by
+                Maartje ter Hoeve, Evgeny Kharitonov, Dieuwke Hupkes, Emmanuel Dupoux
+              </li>
+            </ul>
+          </div>
+        </li>
+        <li>
+          12:00–13:30	- Lunch
+        </li>
+        <li>
+          13:30–14:10	- Invited talk 2: Danqi Chen -- <b>TITLE TBA</b> <button class="btn btn-outline-info btn-xs" type="button" data-toggle="collapse" data-target="#danqi-card" aria-expanded="false" aria-controls="danqi-card">Abstract</button> <div class="collapse" id="danqi-card"><div class="card card-body">ABSTRACT TBA</div></div>
+        </li>
+        <li>
+          14:10–14:50	- Invited talk 3: Jason Weston -- <b>Language Models that Seek for Knowledge with Modular Search & Generation</b> <button class="btn btn-outline-info btn-xs" type="button" data-toggle="collapse" data-target="#jason-card" aria-expanded="false" aria-controls="jason-card">Abstract</button> <div class="collapse" id="jason-card"><div class="card card-body">We show that applying a single language model in a modular fashion can generate more factual responses. Our SeeKeR (Search engine->Knowledge->Response) method thus applies a single LM to three modular tasks in succession: search, generating knowledge, and generating a final response. We show that, when using SeeKeR as a dialogue model, it outperforms the state-of-the-art model BlenderBot 2 (Chen et al., 2021) on open-domain knowledge-grounded conversations for the same number of parameters, in terms of consistency, knowledge and per-turn engagingness. SeeKeR applied to topical prompt completions as a standard language model outperforms GPT2 (Radford et al., 2019) and GPT3 (Brown et al., 2020) in terms of factuality and topicality, despite GPT3 being a vastly larger model. Our code and models are made publicly available.</div></div>
+        </li>
+        <li>
+          14:50–15:00	- Coffee break
+        </li>
+        <li>
+          15:00–16:00	- Poster session II <button class="btn btn-outline-info btn-xs" type="button" data-toggle="collapse" data-target="#papers2-card" aria-expanded="false" aria-controls="papers2-card">Paper list</button> <div class="collapse" id="papers2-card">
+            <ul>
+              <li>
+                "Choose Your QA Model Wisely: A Systematic Study of Generative and Extractive Readers for Question Answering" by
+                Man Luo, Kazuma Hashimoto, Semih Yavuz, Zhiwei Liu, Chitta Baral, Yingbo Zhou
+              </li>
+              <li>
+                "Knowledge Base Index Compression via Dimensionality and Precision Reduction" by
+                Vilém Zouhar, Marius Mosbach, Miaoran Zhang, Dietrich Klakow
+              </li>
+              <li>
+                "Field Extraction from Forms with Unlabeled Data" by
+                Mingfei Gao, Zeyuan Chen, Nikhil Naik, Kazuma Hashimoto, Caiming Xiong, Ran Xu
+              </li>
+              <li>
+                "A Survey of Knowledge-Intensive NLP with Pre-Trained Language Models" by
+                Da Yin, Li Dong, Hao Cheng, Xiaodong Liu, Kai-Wei Chang, Furu Wei, Jianfeng Gao 
+              </li>
+              <li>
+                "C-MORE: Pretraining to Answer Open-Domain Questions by Consulting Millions of References" by
+                Xiang Yue, Xiaoman Pan, Wenlin Yao, Dian Yu, Dong Yu, Jianshu Chen
+              </li>
+              <li>
+                "Towards Unsupervised Dense Information Retrieval with Contrastive Learning" by
+                Gautier Izacard, Mathilde Caron, Lucas Hosseini, Sebastian Riedel, Piotr Bojanowski, Armand Joulin, Edouard Grave
+              </li>
+              <li>
+                "Internet-augmented language models through few-shot prompting for open-domain question answering" by
+                Angeliki Lazaridou, Elena Gribovskaya, Wojciech Stokowiec, Nikolai Grigorev
+              </li>
+              <li>
+                "Less is More: Summary of Long Instructions is Better for Program Synthesis" by
+                Kirby Kuznia, Swaroop Mishra, Mihir Parmar, Chitta Baral
+              </li>
+              <li>
+                "How Many Data Samples is an Additional Instruction Worth?" by
+                Ravsehaj Singh Puri, Swaroop Mishra, Mihir Parmar, Chitta Baral
+              </li>
+              <li>
+                "Unsupervised Cross-Task Generalization via Retrieval Augmentation" by
+                Bill Yuchen Lin, Kangmin Tan, Chris Scott Miller, Beiwen Tian, Xiang Ren
+              </li>
+              <li>
+                "Controllable Semantic Parsing via Retrieval Augmentation" by
+                Panupong Pasupat, Yuan Zhang, Kelvin Guu
+              </li>
+              <li>
+                "On the Effect of Pretraining Corpora on In-context Few-shot Learning by a Large-scale Language Model" by
+                Seongjin Shin, Sang-Woo Lee, Hwijeen Ahn, Sungdong Kim, HyoungSeok Kim, Boseop Kim, Kyunghyun Cho, Gichang Lee, Woomyoung Park, Jung-Woo Ha, Nako Sung
+              </li>
+              <li>
+                "StreamingQA: A Benchmark for Adaptation to New Knowledge over Time in Question Answering Models" by
+                Adam Liska, Tomas Kocisky, Elena Gribovskaya, Tayfun Terzi, Eren Sezener, Devang Agrawal, Cyprien de Masson d’Autume, Tim Scholtes, Manzil Zaheer, Susannah Young, Ellen Gilsenan-McMahon, Sophia Austin, Phil Blunsom, Angeliki Lazaridou
+              </li>
+              <li>
+                "RetroNLU: Retrieval Augmented Task-Oriented Semantic Parsing" by
+                Vivek Gupta, Akshat Shrivastava, Adithya Sagar, Armen Aghajanyan, Denis Savenkov
+              </li>
+            </ul>
+          </div>
+        </li>
+        <li>
+          16:00–16:40	- Invited talk 4: Andrew McCallum -- <b>TITLE TBA</b> <button class="btn btn-outline-info btn-xs" type="button" data-toggle="collapse" data-target="#andrew-card" aria-expanded="false" aria-controls="andrew-card">Abstract</button> <div class="collapse" id="andrew-card"><div class="card card-body">ABSTRACT TBA</div></div>
+        </li>
+        <li>
+          16:40–17:20	- Invited talk 5: Hanna Hajishirzi -- <b>TITLE TBA</b> <button class="btn btn-outline-info btn-xs" type="button" data-toggle="collapse" data-target="#hanna-card" aria-expanded="false" aria-controls="hanna-card">Abstract</button> <div class="collapse" id="hanna-card"><div class="card card-body">ABSTRACT TBA</div></div>
+        </li>
+        <li>
+          17:20–17:50	- Panel discussion
+        </li>
+        <li>
+          17:50–18:00	- Closing remark
+        </li>
+  </ul>
+</div>
 
 ## Important Dates
 
